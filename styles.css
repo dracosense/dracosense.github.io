@@ -1,6 +1,13 @@
+
 .panel
 {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 100px;
+}
+
+.header_item
+{
+    text-align: center;
+    color: green;
 }
