@@ -9,6 +9,7 @@
 
 .header_item
 {
-    align-self: center;
+    text-align: center;
+    font-size: large;
     color: white;
 }
