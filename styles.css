@@ -10,5 +10,6 @@
 {
     align-self: center;
     color: green;
-    background-color: grey;
+    background-color: orange;
+    outline-color: orangered;
 }
