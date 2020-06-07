@@ -4,12 +4,11 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 100px;
+    background-color: black;
 }
 
 .header_item
 {
     align-self: center;
-    color: green;
-    background-color: orange;
-    outline-color: orangered;
+    color: white;
 }
